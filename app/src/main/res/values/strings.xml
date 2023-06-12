@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AV1 </string>
+    <string name="autor">Nicholas Venturolli Secato </string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="end_location">Destino</string>
+    <string name="generate_route">Gerar</string>
+    <string name="stop_simulation">Parar Simulação</string>
+    <string name="start_simulation">iniciar Simulação</string>
+    <string name="dist_ncia">Distância total:</string>
+    <string name="dura_o">Duração do trajeto:</string>
+    <string name="velocidade_m_dia">Velocidade média:</string>
+    <string name="velocidade">Velocidade atual:</string>
+    <string name="velocidade_desejada">Velocidade reconciliação:</string>
+    <string name="dist_ncia_percorrida">Distância viajada:</string>
+    <string name="tempo_atual">Tempo decorrido:</string>
+    <string name="consumo">Consumo total:</string>
+    <string name="eficiencia">Taxa:</string>
+    <string name="car">Carro</string>
+    <string name="truck">Caminhão</string>
+</resources>
