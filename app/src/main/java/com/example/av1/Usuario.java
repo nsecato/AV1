@@ -141,10 +141,7 @@ public class Usuario extends Thread {
         double velocidadeSubPista = distânciaPercorrida / tempoDecorrido;
         velocidadeMédia = velocidadeSubPista;
         velocidadeIdeal = 80 * 80 / velocidadeSubPista;
-        if (velocidadeIdeal > 120) {
-            velocidadeIdeal = 120;
-        }
 
-        logger.info("Velocidade ideal atualizada: " + velocidadeIdeal + " km/h às " + new java.util.Date());
+        logger.info(new java.util.Date() + " Reconciliação: V=" + velocidadeIdeal + " km/h " );
     }
 }
