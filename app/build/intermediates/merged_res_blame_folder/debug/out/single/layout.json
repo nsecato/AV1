@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.av1.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.example.av1.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\joao_\\.gradle\\daemon\\7.5\\com.example.av1.app-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\joao_\\.gradle\\daemon\\7.5\\com.example.av1.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\joao_\\.gradle\\daemon\\7.5\\com.example.av1.app-mergeDebugResources-32:\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\joao_\\.gradle\\daemon\\7.5\\com.example.av1.app-main-35:\\layout\\activity_maps.xml"
+    }
+]
